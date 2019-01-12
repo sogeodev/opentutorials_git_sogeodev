@@ -7,3 +7,9 @@ Git에 대한 연습을 해보자.
 This is a Version.2 for my git practice.
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+내용3
+
+This is a Version.3.1 for my git practice.
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
