@@ -13,3 +13,8 @@ This is a Version.2 for my git practice.
 This is a Version.3.1 for my git practice.
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+내용4
+원격저장소를 사용해보자. github는 git의 웹버젼+a라 생각하면 된다.
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
